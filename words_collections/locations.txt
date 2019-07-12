@@ -1,0 +1,23 @@
+kitchen
+living room
+bedroom
+hallway
+door
+table
+entrance
+dining area
+exit
+chair
+shelf
+bookshelf
+bookstand
+sink
+kitchen cabinet
+dishwasher
+bed
+sofa
+couch
+refrigerator
+fridge
+high table
+tv 
