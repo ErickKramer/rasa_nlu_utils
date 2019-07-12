@@ -2,7 +2,7 @@
 python scripts to generate training files for rasa
 
 # Requirements:
-* rasa 1.1.
+* rasa 1.1.5
 * python >= 3.5
 
 # Training rasa
